@@ -4,7 +4,6 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 ### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* Pagina do Instagram Criada Seguindo a Aula da Gabriela no https://web.digitalinnovation.one/
 
 ## 🚀 Let's code! 🚀
